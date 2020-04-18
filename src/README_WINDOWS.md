@@ -1,7 +1,7 @@
 Windows Platform-Specific Instructions
 ======================================
 
-If you have not already done so, please read the all-platform introductory file, ../README_FIRST.md, which is located in the top directory.
+If you have not already done so, please read the all-platform introductory file, ../README.md, which is located in the top directory.
 
 System Requirements / Installation
 ----------------------------------
