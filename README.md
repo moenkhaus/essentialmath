@@ -99,7 +99,7 @@ The following is a listing of the directories and demos in src/:
   * /Curves-10-SpeedControl
   * /Curves-11-CameraControl
 
-* /Ch08-GeometryColoring - Contains the demos for Chapter 8: Geometry and Textuting
+* /Ch08-GeometryColoring - Contains the demos for Chapter 8: Geometry and Texturing
 
   * /Geometry-01-ColorRemapping
   * /Geometry-02-BasicDrawing
